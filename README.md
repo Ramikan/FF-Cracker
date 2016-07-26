@@ -1,4 +1,4 @@
 # FF-Cracker
-Fantasy Football Account Recovery or Password Cracker tool.
+Fantasy Football Account Recovery or Password Cracking tool.
 
-This tool performs dictionary attack to guess the password for the given account.
+This tool performs dictionary attack on the given fantansy football user account.
